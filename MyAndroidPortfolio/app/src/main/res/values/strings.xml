@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidPortfolio</string>
+    <string name="name">Aditya Prajapati</string>
+    <string name="job_title">Android Developer</string>
+    <string name="contact_number">+91–9555764266</string>
+    <string name="website">aditya42.com</string>
+    <string name="email">hi@aditya42.com</string>
+</resources>
